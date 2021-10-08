@@ -1,0 +1,1 @@
+First project with the new curriculum on The Odin Project. A recipes site. It'll look like poop. That's ok. No CSS I believe in here. Just a bunch of lined code.
