@@ -84,6 +84,11 @@ a:hover {
     padding-right: 80px;
 }
 
+hr {
+    width: 90%;
+
+}
+
 /* For recipes */
 
 .container2 {
@@ -113,4 +118,18 @@ a:hover {
      padding-right: 40px;
      padding-left: 20px;
      padding-top: 50px;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ingredients {
+    padding-left: 40px;
+}
+
+.directions {
+    padding-right: 40px;
 }

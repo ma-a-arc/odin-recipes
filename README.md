@@ -7,3 +7,5 @@ October 12th, 2021 - 19h46
 
 October 13th, 2021 - 4h52
     I was up at four doing this. I'm done styling the index page and am moving onto the css for the actual recipe pages. It's going well. I gotta make lunches for work now though so I guess that's it for this morning. I'll be revisiting this at night maybe. I hope I'm using GitHub properly. I push origin main every time I shut my laptop's screen. Maybe I'm just supposed to commit changes and push when it's ALL done? I don't know. I'll keep doing it my way until someone tells me I'm doing it wrong.
+19h30
+    Time for another foray into this course! 
