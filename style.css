@@ -54,4 +54,18 @@ a:hover {
 
 .recipe {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#piclog {
+    height: 120px;
+    width: auto;
+    padding-top: 25px;
+}
+
+#piclog1 {
+    width: 90px;
+    height: auto;
+    padding-top: 15px;
 }
